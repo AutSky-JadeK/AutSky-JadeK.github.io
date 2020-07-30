@@ -31,4 +31,4 @@
 - CCPC-Final, Shenzhen, 2018, Silver Medal
 
 ### Links
-[My other blog](https://www.cnblogs.com/autsky-jadek)
+[My Blog](https://www.cnblogs.com/autsky-jadek)
