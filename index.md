@@ -18,9 +18,9 @@
 - Shanghai Jiaotong University, 2020-, Ph.D. candidate
 
 ### Research field 
-- natural language processing
-- dialogue response
-- knowledge graph
+- Natural Language Processing
+- Dialogue Response
+- Knowledge Graph
 
 ### Awards
 - ACM/ICPC, Asia Regional, Nanjing, 2018, Gold Medal
