@@ -4,7 +4,7 @@
       <h1>Li Zitong</h1>
       <p><b>Ph.D. candidate</b></p>
       <p><b>School of electronic information and electrical engineering, SJTU</b></p>
-      <p><b>Advance Data and Programming Technology, ADAPT, Kenny Q. Zhu</b></p>
+      <p><b>Advance Data and Programming Technology, Kenny Q. Zhu</b></p>
       <p><b><a href="AutSky_JadeK@outlook.com">AutSky_JadeK@outlook.com</a></b></p>
       <p><b>3-341, SEIEE, 800 Dongchuan Road, Minhang District, Shanghai</b></p>
     </td>
