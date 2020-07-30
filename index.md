@@ -8,7 +8,7 @@
       <p><b>3-341, SEIEE, 800 Dongchuan Road, Minhang District, Shanghai</b></p>
     </td>
     <td width="25%">
-      <img src="/zitong.jpg" width="100%">      % photo
+      <img src="/lztzipai.jpg" width="100%">      % photo
     </td>
   </tr>
 </table>
